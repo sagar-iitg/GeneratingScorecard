@@ -1,0 +1,50 @@
+ Innings (50 overs maximum)
+BATSMEN                                        R       B      M       4s     6s     SR
+Plunkett     not out                           9       6      0       1      0      150.0
+Archer       not out                           7       3      0       1      0      233.33
+Stokes       c Amla b Ngidi                    89      83     132     9      0      107.23
+Woakes       c du Plessis b Rabada             13      16     24      1      0      81.25
+Ali          c du Plessis b Ngidi              3       9      13      0      0      33.33
+Buttler      b Ngidi                           18      16     21      0      0      112.5
+Morgan       c Markram b Imran Tahir           57      61     73      4      3      93.44
+Root         c Duminy b Rabada                 51      59     83      5      0      86.44
+Roy          c du Plessis b Phehlukwayo        54      54     80      8      0      100.0
+Bairstow     c ((wk))de Kock b Imran Tahir     0       1      2       0      0      0.0
+Extras                                        10 (lb 2, w 8)
+TOTAL                                 311/8 (50 Overs, RR: 6.22)
+Did not bat:
+Fall of wickets: 1-1 (Bairstow, 0.2 ov),  2-107 (Roy, 18.4 ov),  3-111 (Root, 19.1 ov),  4-217 (Morgan, 36.5 ov),  5-247 (Buttler, 41.2 ov),  6-260 (Ali, 43.6 ov),  7-285 (Woakes, 47.3 ov),  8-300 (Stokes, 48.6 ov)
+BOWLING              O      M      R       W      Econ     0s     4s     6s     WD     NB
+Rabada               10     0      67      2      6.7      23     8      0      2      0
+Ngidi                10     0      66      3      6.6      28     6      2      2      0
+Phehlukwayo          8      0      45      1      5.62     22     4      0      4      0
+Imran                9      0      61      2      6.78     20     4      0      0      0
+Pretorius            7      0      42      0      6.0      17     5      0      0      0
+Markram              3      0      16      0      5.33     10     1      1      0      0
+Duminy               2      0      14      0      7.0      3      1      0      0      0
+
+6.03pmWell Innings (target: 312 runs from 50 overs)
+BATSMEN                                        R       B      M       4s     6s     SR
+Tahir           c Root b Stokes                0       1      2       0      0      0.0
+Rabada          c Plunkett b Stokes            11      19     23      2      0      57.89
+Ngidi           not out                        6       5      0       0      1      120.0
+Amla            c ((wk))Buttler b Plunkett     13      23     46      1      0      56.52
+Phehlukwayo     c Stokes b Rashid              24      26     34      4      0      92.31
+Dussen          c Ali b Archer                 49      61     85      4      1      80.33
+Pretorius       run out (Stokes/Morgan)        1       1      6       0      0      100.0
+Duminy          c Stokes b Ali                 8       11     12      1      0      72.73
+Kock            c Root b Plunkett              68      74     94      6      2      91.89
+Plessis         c Ali b Archer                 5       7      11      1      0      71.43
+Markram         c Root b Archer                11      12     17      2      0      91.67
+Extras                                        10 (b 4, lb 5, w 1)
+TOTAL                                 206 all out (39.5 Overs, RR: 5.17)
+Did not bat:Well, witness, subplots, Miller, Gardner, reasons, Rama, goodbye, Bridge!
+Fall of wickets: 1-36 (Markram, 7.4 ov),  2-44 (Plessis, 9.3 ov),  3-129 (Kock, 22.6 ov),  4-142 (Duminy, 25.5 ov),  5-143 (Pretorius, 26.2 ov),  6-166 (Dussen, 31.5 ov),  7-179 (Phehlukwayo, 34.1 ov),  8-192 (Amla, 38.1 ov),  9-206 (Rabada, 39.4 ov),  10-206 (Tahir, 39.5 ov)
+BOWLING           O      M      R       W      Econ     0s     4s     6s     WD     NB
+Stokes            2.5    0      16      2      5.65     10     2      0      0      0
+Plunkett          7      0      36      2      5.14     21     1      2      0      0
+Rashid            8      0      36      1      4.5      26     4      0      0      0
+Archer            7      1      27      3      3.86     29     4      0      1      0
+Ali               10     0      67      1      6.7      27     6      2      0      0
+Woakes            5      0      24      0      4.8      20     4      0      0      0
+

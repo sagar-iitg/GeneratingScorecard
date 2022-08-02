@@ -1,0 +1,51 @@
+Australia Innings (50 overs maximum)
+BATSMEN                                       R       B      M       4s     6s     SR
+Lyon            not out                       0       1      0       0      0      0.0
+Behrendorff     lbw b Boult                   0       1      4       0      0      0.0
+Starc           b Boult                       0       1      2       0      0      0.0
+Khawaja         b Boult                       88      132    187     5      0      66.67
+Cummins         not out                       23      19     0       1      0      121.05
+Carey           c Guptill b Williamson        71      72     113     11     0      98.61
+Maxwell         c & b Neesham                 1       5      8       0      0      20.0
+Stoinis         c ((wk))Latham b Neesham      21      26     41      3      0      80.77
+Smith           c Guptill b Ferguson          5       8      13      0      0      62.5
+Warner          c ((wk))Latham b Ferguson     16      23     39      3      0      69.57
+Finch           lbw b Boult                   8       15     19      1      0      53.33
+Extras                                        10 (lb 3, w 7)
+TOTAL                                 243/9 (50 Overs, RR: 4.86)
+Fall of wickets: 1-15 (Finch, 4.3 ov),  2-38 (Warner, 9.1 ov),  3-46 (Smith, 11.2 ov),  4-81 (Stoinis, 19.6 ov),  5-92 (Maxwell, 21.3 ov),  6-199 (Carey, 42.6 ov),  7-243 (Khawaja, 49.3 ov),  8-243 (Starc, 49.4 ov),  9-243 (Behrendorff, 49.5 ov)
+BOWLING             O      M      R       W      Econ     0s     4s     6s     WD     NB
+Boult               9      0      52      4      5.78     34     6      0      0      0
+Ferguson            10     0      49      2      4.9      35     7      0      0      0
+Sodhi               6      0      35      0      5.83     12     2      0      0      0
+Williamson          7      0      25      1      3.57     19     0      0      0      0
+Neesham             6      0      29      2      4.83     20     4      0      1      0
+de                  8      1      30      0      3.75     30     3      0      1      0
+Santner             3      0      23      0      7.67     8      2      0      1      0
+
+NewZealand Innings (target: 244 runs from 50 overs)
+BATSMEN                                        R       B      M       4s     6s     SR
+Santner        c Behrendorff b Starc           12      30     42      0      1      40.0
+Boult          not out                         2       7      0       0      0      28.57
+Ferguson       b Starc                         0       4      7       0      0      0.0
+Sodhi          lbw b Starc                     5       5      11      1      0      100.0
+Neesham        c & b Lyon                      9       22     24      0      0      40.91
+Latham         c Smith b Starc                 14      28     41      0      0      50.0
+Grandhomme     c Khawaja b Smith               0       1      6       0      0      0.0
+Taylor         c ((wk))Carey b Cummins         30      55     76      2      0      54.55
+Williamson     c ((wk))Carey b Starc           40      52     69      2      1      76.92
+Guptill        lbw b Behrendorff               20      45     60      2      0      44.44
+Nicholls       c ((wk))Carey b Behrendorff     8       21     43      2      0      38.1
+Extras                                        17 (b 4, lb 3, w 10)
+TOTAL                                 157 all out (43.4 Overs, RR: 3.6)
+Fall of wickets: 1-29 (Nicholls, 9.2 ov),  2-42 (Guptill, 13.1 ov),  3-97 (Williamson, 25.4 ov),  4-118 (Taylor, 31.4 ov),  5-118 (Grandhomme, 32.1 ov),  6-125 (Latham, 35.3 ov),  7-131 (Neesham, 38.1 ov),  8-141 (Sodhi, 39.6 ov),  9-144 (Ferguson, 41.1 ov),  10-157 (Santner, 43.4 ov)
+BOWLING              O      M      R       W      Econ     0s     4s     6s     WD     NB
+Starc                9.4    2      27      5      2.79     44     2      0      4      0
+Lyon                 10     0      40      1      4.0      36     1      1      1      0
+Maxwell              4      0      18      0      4.5      10     1      0      0      0
+Smith                2      0      6       1      3.0      6      0      0      0      0
+Cummins              6      1      14      1      2.33     28     2      0      0      0
+Stoinis              2      0      13      0      6.5      6      0      1      0      0
+Finch                1      0      7       0      7.0      2      1      0      0      0
+Behrendorff          9      0      32      2      3.56     36     2      0      3      0
+

@@ -1,0 +1,45 @@
+India Innings (50 overs maximum)
+BATSMEN                                    R       B      M       4s     6s     SR
+Rahul      not out                         11      3      0       1      1      366.67
+Jadhav     not out                         0       1      0       0      0      0.0
+Kohli      c Cummins b Stoinis             82      79     128     4      2      103.8
+Dhoni      c & b Stoinis                   27      15     20      3      1      180.0
+Pandya     c Finch b Cummins               48      29     41      4      3      165.52
+Dhawan     c sub (NM Lyon) b Starc         117     111    163     16     0      105.41
+Sharma     c ((wk))Carey b CoulterNile     57      70     101     3      1      81.43
+Extras                                        10 (lb 3, w 7)
+TOTAL                                 352/5 (50 Overs, RR: 7.04)
+Did not bat:Kumar, Yadav, Chahal, Bumrah
+Fall of wickets: 1-127 (Sharma, 22.3 ov),  2-220 (Dhawan, 36.6 ov),  3-301 (Pandya, 45.5 ov),  4-338 (Dhoni, 49.1 ov),  5-348 (Kohli, 49.5 ov)
+BOWLING              O      M      R       W      Econ     0s     4s     6s     WD     NB
+Stoinis              7      0      62      2      8.86     13     6      1      3      0
+Starc                10     0      76      1      7.6      20     4      3      0      0
+Cummins              9      0      55      1      6.11     34     5      1      3      0
+Zampa                6      0      50      0      8.33     6      4      1      0      0
+CoulterNile          10     1      64      1      6.4      27     8      1      1      0
+Maxwell              7      0      45      0      6.43     14     4      1      0      0
+
+Australia Innings (target: 353 runs from 50 overs)
+BATSMEN                                           R       B      M       4s     6s     SR
+Zampa           c sub (RA Jadeja) b Kumar         1       3      4       0      0      33.33
+Carey           not out                           54      35     0       5      1      154.29
+Starc           run out (sub [Shankar]/Kumar)     3       3      12      0      0      100.0
+Cummins         c ((wk))Dhoni b Bumrah            8       7      11      1      0      114.29
+CoulterNile     c Kohli b Bumrah                  4       9      22      0      0      44.44
+Maxwell         c sub (RA Jadeja) b Chahal        28      14     25      5      0      200.0
+Stoinis         b Kumar                           0       2      3       0      0      0.0
+Smith           lbw b Kumar                       69      73     115     5      1      94.52
+Khawaja         b Bumrah                          42      39     48      4      1      107.69
+Warner          c Kumar b Chahal                  55      86     111     4      0      63.95
+Finch           run out (Jadhav/Pandya)           36      37     60      3      1      97.3
+Extras                                        14 (b 3, lb 3, nb 1, w 7)
+TOTAL                                 316 all out (50 Overs, RR: 6.32)
+Fall of wickets: 1-60 (Finch, 13.1 ov),  2-133 (Warner, 24.4 ov),  3-202 (Khawaja, 36.4 ov),  4-238 (Smith, 39.4 ov),  5-238 (Stoinis, 39.6 ov),  6-244 (Maxwell, 40.4 ov),  7-283 (CoulterNile, 44.5 ov),  8-300 (Cummins, 46.6 ov),  9-312 (Starc, 49.1 ov),  10-316 (Zampa, 49.6 ov)
+BOWLING          O      M      R       W      Econ     0s     4s     6s     WD     NB
+Kumar            10     0      50      3      5.0      31     5      0      1      0
+Bumrah           10     1      64      3      6.4      32     9      0      1      0
+Pandya           10     0      69      0      6.9      23     5      1      2      1
+Chahal           10     0      64      2      6.4      20     3      1      1      0
+Kuldeep          9      0      55      0      6.11     19     4      1      0      0
+Jadhav           1      0      14      0      14.0     2      1      1      2      0
+

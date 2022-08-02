@@ -1,0 +1,47 @@
+SouthAfrica Innings (50 overs maximum)
+BATSMEN                                   R       B      M       4s     6s     SR
+Dussen          c Maxwell b Cummins       95      99     136     4      4      95.96
+Phehlukwayo     not out                   4       3      0       1      0      133.33
+Pretorius       b Starc                   2       7      13      0      0      28.57
+Duminy          c Stoinis b Starc         14      14     18      1      0      100.0
+Plessis         c Starc b Behrendorff     101     95     125     7      2      106.32
+Kock            c Starc b Lyon            51      50     78      7      0      102.0
+Markram         st ((wk))Carey b Lyon     34      41     51      6      1      82.93
+Extras                                        24 (b 1, lb 10, w 13)
+TOTAL                                 325/6 (50 Overs, RR: 6.5)
+Did not bat:Plessis(capt), Morris, Rabada, Tahir, Shamsi
+Fall of wickets: 1-79 (Markram, 11.3 ov),  2-114 (Kock, 17.4 ov),  3-265 (Plessis, 42.6 ov),  4-295 (Duminy, 46.5 ov),  5-317 (Pretorius, 48.5 ov),  6-325 (Dussen, 49.6 ov)
+BOWLING              O      M      R       W      Econ     0s     4s     6s     WD     NB
+Cummins              9      0      70      1      7.78     25     6      2      3      0
+Starc                8      0      64      2      8.0      25     7      0      4      0
+Maxwell              10     0      57      0      5.7      22     1      2      1      0
+Behrendorff          8      0      55      1      6.88     21     6      1      0      0
+Lyon                 10     0      55      2      5.5      30     4      2      0      0
+Stoinis              3      0      19      0      6.33     5      1      0      1      0
+Smith                1      0      5       0      5.0      4      1      0      0      0
+
+Australia Innings (target: 326 runs from 50 overs)
+BATSMEN                                            R       B      M       4s     6s     SR
+Lyon            c Markram b Phehlukwayo            3       3      7       0      0      100.0
+Behrendorff     not out                            11      6      0       0      0      183.33
+Starc           b Rabada                           16      11     24      1      1      145.45
+Khawaja         b Rabada                           18      14     26      3      0      128.57
+Carey           c Markram b Morris                 85      71     90      11     1      119.72
+Cummins         c Duminy b Phehlukwayo             9       15     24      1      0      60.0
+Warner          c Morris b Pretorius               122     117    168     15     2      104.27
+Maxwell         c ((wk))de Kock b Rabada           12      20     24      1      0      60.0
+Stoinis         run out (Rabada/((wk))de Kock)     22      35     54      4      0      62.86
+Smith           lbw b Pretorius                    7       6      9       1      0      116.67
+Finch           c Markram b Imran Tahir            3       4      9       0      0      75.0
+Extras                                        7 (lb 4, w 3)
+TOTAL                                 315 all out (49.5 Overs, RR: 6.32)
+Fall of wickets: 1-5 (Finch, 2.1 ov),  2-33 (Smith, 6.3 ov),  3-95 (Stoinis, 18.3 ov),  4-119 (Maxwell, 24.1 ov),  5-227 (Warner, 39.1 ov),  6-272 (Cummins, 44.4 ov),  7-275 (Carey, 45.2 ov),  8-301 (Khawaja, 48.1 ov),  9-306 (Starc, 48.5 ov),  10-315 (Lyon, 49.5 ov)
+BOWLING              O      M      R       W      Econ     0s     4s     6s     WD     NB
+Phehlukwayo          2.5    0      22      2      7.76     5      2      0      1      0
+Rabada               10     0      57      3      5.7      32     6      1      0      0
+Morris               9      0      63      1      7.0      24     7      2      0      0
+Shamsi               9      0      62      0      6.89     20     7      0      1      0
+Imran                9      0      60      1      6.67     22     7      1      0      0
+Pretorius            6      1      28      2      4.67     25     5      0      1      0
+Duminy               4      0      23      0      5.75     10     3      0      0      0
+

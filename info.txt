@@ -1,0 +1,43 @@
+
+ICC World Cup 2019
+
+https://www.espncricinfo.com/series/icc-cricket-world-cup-2019-1144415/england-vs-south-africa-1st-match-1144483/ball-by-ball-commentary?innings=2&filter=full
+
+
+
+
+
+
+
+Objective of Project:-
+
+1.Downloaded  all the 48 matches cricket text commentaries into text files.
+2.Program should take as input the above text commentary files.
+3.Read the text commentary from the given file
+4.compute the scorecard  from the text commentary.
+5.Output scorecard should be identical in format as given at the SCORECARD link
+
+https://www.espncricinfo.com/series/icc-cricket-world-cup-2019-1144415/england-vs-south-africa-1st-match-1144483/full-scorecard
+
+6. use regular expressions for processing each line of the text commentary
+7. read the two files 194161013-match-id-scorecard-published.txt
+ and 194161013-match-id-scorecard-computed.txt
+8.Compare the output scorecard obtained by program with the published scorecard.
+9.Identify the differences between computed scorecard and the published scorecard
+10.Print the difference in a readable format
+11. Print the total number of mismatches in each match
+
+
+
+
+
+Note: I have hardcoded matchId's of 10 matches by passing them from a list
+for which the program runs fine.(As I have formatted those 10 files by doing some preprocessing)
+Running all the match files by including matchId's in the list at the top of 194161016_q1.py
+program will throw exceptions as the program cannot handle unformatted files.
+(I have not done preprocessing for the rest of the files.Just included them in the directory)
+
+
+
+
+

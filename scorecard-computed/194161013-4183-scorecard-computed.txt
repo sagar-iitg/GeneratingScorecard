@@ -1,0 +1,49 @@
+England Innings (50 overs maximum)
+BATSMEN                                 R       B      M       4s     6s     SR
+Plunkett     not out                    15      12     0       1      0      125.0
+Archer       not out                    1       1      0       0      0      100.0
+Rashid       b Southee                  16      14     17      1      0      114.29
+Morgan       c Santner b Henry          42      42     64      5      0      100.0
+Woakes       c Williamson b Neesham     4       12     12      0      0      33.33
+Stokes       c Henry b Santner          11      27     33      0      0      40.74
+Buttler      c Williamson b Boult       11      12     25      1      0      91.67
+Bairstow     b Henry                    106     101    147     15     1      104.95
+Root         c ((wk))Latham b Boult     24      25     54      1      0      96.0
+Roy          c Santner b Neesham        60      61     81      8      0      98.36
+Extras                                        15 (b 4, lb 4, w 7)
+TOTAL                                 305/8 (50 Overs, RR: 6.1)
+Did not bat:Wood
+Fall of wickets: 1-123 (Roy, 18.4 ov),  2-194 (Root, 30.1 ov),  3-206 (Bairstow, 31.4 ov),  4-214 (Buttler, 34.2 ov),  5-248 (Stokes, 41.6 ov),  6-259 (Woakes, 44.5 ov),  7-272 (Morgan, 46.1 ov),  8-301 (Rashid, 49.3 ov)
+BOWLING             O      M      R       W      Econ     0s     4s     6s     WD     NB
+Southee             9      0      70      1      7.78     23     10     1      0      0
+Henry               10     0      54      2      5.4      30     5      0      2      0
+Boult               10     0      60      2      6.0      29     6      0      1      0
+Neesham             10     1      41      2      4.1      31     2      0      2      0
+Santner             9      0      69      1      7.67     23     7      0      2      0
+Grandhomme          1      0      11      0      11.0     1      2      0      0      0
+
+NewZealand Innings (target: 306 runs from 50 overs)
+BATSMEN                                           R       B      M       4s     6s     SR
+Boult          st ((wk))Buttler b Rashid          4       7      7       1      0      57.14
+Southee        not out                            7       17     0       0      0      41.18
+Henry          b Wood                             7       13     17      0      0      53.85
+Santner        lbw b Wood                         12      31     58      1      0      38.71
+Latham         c ((wk))Buttler b Plunkett         57      67     106     5      0      85.07
+Grandhomme     c Root b Stokes                    3       13     15      0      0      23.08
+Neesham        b Wood                             19      27     31      1      0      70.37
+Taylor         run out (Rashid/((wk))Buttler)     27      43     54      2      0      62.79
+Williamson     run out (Wood)                     27      40     62      3      0      67.5
+Guptill        c ((wk))Buttler b Archer           8       17     25      1      0      47.06
+Nicholls       lbw b Woakes                       0       1      6       0      0      0.0
+Extras                                        14 (b 2, lb 6, w 6)
+TOTAL                                 186 all out (45 Overs, RR: 4.13)
+Fall of wickets: 1-2 (Nicholls, 0.5 ov),  2-14 (Guptill, 5.2 ov),  3-61 (Williamson, 15.1 ov),  4-68 (Taylor, 16.4 ov),  5-123 (Neesham, 25.1 ov),  6-128 (Grandhomme, 28.1 ov),  7-164 (Latham, 38.3 ov),  8-166 (Santner, 39.2 ov),  9-181 (Henry, 43.4 ov),  10-186 (Boult, 44.6 ov)
+BOWLING           O      M      R       W      Econ     0s     4s     6s     WD     NB
+Rashid            5      0      32      1      6.4      11     3      0      0      0
+Wood              9      0      36      3      4.0      33     2      0      2      0
+Plunkett          8      0      30      1      3.75     24     1      0      1      0
+Woakes            8      0      44      1      5.5      29     6      0      1      0
+Stokes            5      0      11      1      2.2      20     0      0      1      0
+Archer            7      1      18      1      2.57     30     1      0      1      0
+Root              3      0      15      0      5.0      7      1      0      0      0
+

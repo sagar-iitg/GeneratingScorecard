@@ -1,0 +1,47 @@
+Australia Innings (50 overs maximum)
+BATSMEN                                                 R       B      M       4s     6s     SR
+Carey       not out                                     34      27     0       4      0      125.93
+Starc       not out                                     4       6      0       0      0      66.67
+Cummins     c ((wk))Buttler b Woakes                    5       5      8       1      0      100.0
+Smith       c Archer b Woakes                           37      35     64      5      0      105.71
+Stoinis     run out (Bairstow/Rashid/((wk))Buttler)     8       15     17      1      0      53.33
+Maxwell     c ((wk))Buttler b Wood                      12      8      14      1      1      150.0
+Finch       c Woakes b Archer                           100     118    144     11     2      84.75
+Khawaja     b Stokes                                    23      29     32      1      0      79.31
+Warner      c Root b Ali                                53      61     95      6      0      86.89
+Extras                                        8 (lb 4, w 4)
+TOTAL                                 285/7 (50 Overs, RR: 5.7)
+Did not bat:Behrendorff, Lyon
+Fall of wickets: 1-123 (Warner, 22.4 ov),  2-173 (Khawaja, 32.2 ov),  3-185 (Finch, 35.3 ov),  4-213 (Maxwell, 38.2 ov),  5-227 (Stoinis, 41.5 ov),  6-250 (Smith, 45.4 ov),  7-259 (Cummins, 47.1 ov)
+BOWLING         O      M      R       W      Econ     0s     4s     6s     WD     NB
+Stokes          6      0      29      1      4.83     17     2      0      0      0
+Archer          9      0      56      1      6.22     31     7      1      1      0
+Woakes          9      0      49      2      5.44     33     6      0      1      0
+Wood            9      0      60      1      6.67     27     9      0      2      0
+Rashid          10     0      49      0      4.9      31     5      0      0      0
+Ali             6      0      42      1      7.0      12     1      2      0      0
+
+England Innings (target: 286 runs from 50 overs)
+BATSMEN                                      R       B      M       4s     6s     SR
+Rashid       c Stoinis b Starc               25      20     24      3      1      125.0
+Wood         not out                         1       2      0       0      0      50.0
+Archer       c Warner b Behrendorff          1       4      10      0      0      25.0
+Woakes       c Finch b Behrendorff           26      35     64      2      0      74.29
+Ali          c ((wk))Carey b Behrendorff     6       9      14      1      0      66.67
+Stokes       b Starc                         89      116    138     8      2      76.72
+Buttler      c Khawaja b Stoinis             25      27     60      2      0      92.59
+Bairstow     c Cummins b Behrendorff         27      39     68      5      0      69.23
+Morgan       c Cummins b Starc               4       8      13      1      0      50.0
+Root         lbw b Starc                     8       9      16      2      0      88.89
+Vince        b Behrendorff                   0       2      2       0      0      0.0
+Extras                                        9 (b 1, lb 5, w 3)
+TOTAL                                 221 all out (44.4 Overs, RR: 4.95)
+Fall of wickets: 1-0 (Vince, 0.2 ov),  2-15 (Root, 3.3 ov),  3-26 (Morgan, 5.5 ov),  4-53 (Bairstow, 13.5 ov),  5-124 (Buttler, 27.2 ov),  6-177 (Stokes, 36.6 ov),  7-189 (Ali, 39.3 ov),  8-202 (Woakes, 41.3 ov),  9-211 (Archer, 43.3 ov),  10-221 (Rashid, 44.4 ov)
+BOWLING              O      M      R       W      Econ     0s     4s     6s     WD     NB
+Starc                8.4    1      43      4      4.96     29     5      0      0      0
+Behrendorff          10     0      46      5      4.6      39     8      0      1      0
+Lyon                 9      0      44      0      4.89     26     2      1      0      0
+Cummins              8      1      42      0      5.25     29     7      0      1      0
+Stoinis              7      0      31      1      4.43     19     2      0      1      0
+Maxwell              2      0      15      0      7.5      7      0      2      0      0
+
